@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1554996216 source:c:\users\colovicc\desktop\programiranje\kladjenje\kladjenje\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<time.h>
+
+1555005589 source:c:\users\colovicc\desktop\programiranje\kladjenje\kladjenje project\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<time.h>
+
